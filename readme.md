@@ -8,6 +8,8 @@ You've been given five digital works of art to recreate. Each one can be done us
 
 This lab works best as a glitch project, or as a Repl.it project set to HTML/CSS. Ask an Upperline Code team member if you need help getting started.
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/p5-shapes-and-color-mockup-match)](https://repl.it/github/upperlinecode/p5-shapes-and-color-mockup-match)
+
 ## The Lab
 
 Recreate each of the following images:
